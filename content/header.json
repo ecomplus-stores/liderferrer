@@ -7,13 +7,13 @@
       "/ofertas-do-dia?Todos os departamentos",
       "/cupons?cupons"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": false
   },
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "FRETE À COMBINAR",
+    "text": "Entregamos para todo o Brasil",
     "link": "/promotion"
   },
   "alphabetical_order_submenu": false,
