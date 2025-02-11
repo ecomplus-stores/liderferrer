@@ -31,7 +31,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "67ab675e53d3dd5b9c65f733:collections:Tenda Piramidal:/tenda-piramidal",
       "sort": "offers",
       "title": "",
       "headless": false,
@@ -39,9 +39,31 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "67ab679953d3dd5b9c65f7d6:collections:Tendas Sanfonadas:/tendas-sanfonadas",
+      "sort": "offers"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-3.png"
+        },
+        {
+          "img": "/img/uploads/banner-4.png"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "67ab527853d3dd5b9c65c4c1:categories:Acessórios:/acessorios",
+      "sort": "offers"
     }
   ]
 }
