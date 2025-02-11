@@ -1,6 +1,10 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/tendas-piramidais?Tendas Piramidais",
+      "/tendas-sanfonadas?Tendas Sanfonadas",
+      "/acessorios?Acessórios"
+    ],
     "random": 6,
     "full_width": false
   },
@@ -13,7 +17,7 @@
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
   "search_input": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
