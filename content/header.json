@@ -3,7 +3,9 @@
     "featured": [
       "/tendas-piramidais?Tendas Piramidais",
       "/tendas-sanfonadas?Tendas Sanfonadas",
-      "/acessorios?Acessórios"
+      "/acessorios?Acessórios",
+      "/ofertas-do-dia?Todos os departamentos",
+      "/cupons?cupons"
     ],
     "random": 6,
     "full_width": false
