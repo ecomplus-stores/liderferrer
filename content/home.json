@@ -8,19 +8,19 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner-1.png",
+          "img": "/img/uploads/lider-01.1.jpg",
           "link": "",
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-6.png"
+          "mobile_img": "/img/uploads/lider-01.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-2.png",
+          "img": "/img/uploads/prancheta-1.jpg",
           "alt": "",
-          "mobile_img": "/img/uploads/banner-5.png"
+          "mobile_img": "/img/uploads/prancheta-3.jpg"
         }
       ]
     },
