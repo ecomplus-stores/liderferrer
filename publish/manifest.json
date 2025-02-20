@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5523093679472e5cabe9573abb1096e4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2da07a0dea195c40b7551d8b78c779d5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f91adb6e4c151699a5caca0f9fb0bccb.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c9602a174c5edda30255ee9336aa31f9.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.317e6947b72e01915466bd5a1d9fe6e9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "liderferrer",
+  "short_name": "liderferrer",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "liderferrer",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
