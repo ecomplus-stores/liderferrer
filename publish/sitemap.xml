@@ -236,13 +236,13 @@
     </url>
   
     <url>
-      <loc>https://liderferrer.netlify.app/pages/privacidade</loc>
+      <loc>https://liderferrer.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://liderferrer.netlify.app/pages/sobre-nos</loc>
+      <loc>https://liderferrer.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
