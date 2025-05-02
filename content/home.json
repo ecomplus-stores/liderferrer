@@ -9,7 +9,7 @@
       "slides": [
         {
           "img": "/img/uploads/prancheta-1.jpg",
-          "link": "",
+          "link": "https://liderferrer.netlify.app/todos-os-departamentos",
           "alt": "",
           "start": "",
           "end": "",
@@ -20,7 +20,8 @@
           "end": "",
           "img": "/img/uploads/prancheta-1.jpg",
           "alt": "",
-          "mobile_img": "/img/uploads/prancheta-3.jpg"
+          "mobile_img": "/img/uploads/prancheta-3.jpg",
+          "link": "https://liderferrer.netlify.app/todos-os-departamentos"
         }
       ]
     },
